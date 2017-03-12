@@ -5,3 +5,7 @@ Integrantes:
 
 David Leonardo Acero Camargo - 20151020090
 Jherson Guzman Ramirez - 20151020097
+
+El archivo se encuentra comprimido, por favor descomprimir y abrir preferncias.html, los demas archivos son adjuntos para el funcionamiento del trabajo.
+
+Muchas gracias
